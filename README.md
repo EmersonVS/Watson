@@ -1,8 +1,10 @@
 # Watson
 Aplicação em Node para consumir API Watson
 
+
 #### Necessário ter instalado a MySQL
 #### Necessário ter instalado NodeJS
+
 
 1. Alterar os dados no arquivo database.js, localizado no diretório src/config/database.js
   database, usuario, senha e host
