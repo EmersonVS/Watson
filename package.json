@@ -1,0 +1,24 @@
+{
+  "name": "provatrabalho",
+  "version": "1.0.0",
+  "description": "Teste SMARKIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Emerson Valentim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "howler": "^2.2.0",
+    "ibm-watson": "^5.6.0",
+    "marko": "^4.22.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
